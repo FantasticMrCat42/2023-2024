@@ -8,3 +8,6 @@
 
 
 this week i worked on a top down text adventure using OOP. I mainly focused on usinf the shapes library to create the visuals. I ussed classes for repeating charachters like enemys or chest as to include data like loot
+
+
+https://replit.com/@HensonLiga/EmptyFrightenedLicenses
