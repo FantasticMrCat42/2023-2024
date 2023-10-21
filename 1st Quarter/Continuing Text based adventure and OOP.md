@@ -2,6 +2,7 @@
 Today I worked on my texted based adventure as well as coverd the information on object orientated programing in the slides provided. Today me and paisley started the prosses to create the computer science national honor society. we went down to the main office to ask for the paperwork required to start an honor society. the rest of class we worked on brainstorming ideas as well as formulating answers to the questions needed to start the honor society.
 
 
+# fear and loathing on the oregon trail
 first I explored several old text based adventure games including organ trail and zork. both games I have played in the past but I revisited them for insperation on my own text based adenture game coding project. I hope I can include some of the feateres includining the optional diologe in oregon trail or the multiple responce input system using numbers.
 
 here is a document of my experences:
