@@ -6,7 +6,7 @@ Today I worked on my texted based adventure as well as coverd the information on
 first I explored several old text based adventure games including organ trail and zork. both games I have played in the past but I revisited them for insperation on my own text based adenture game coding project. I hope I can include some of the feateres includining the optional diologe in oregon trail or the multiple responce input system using numbers.
 
 here is a document of my experences:
-we set out with no food, water, or suplies. all we had was 18 oxen adn a ton of cash.
+we set out with no food, water, or suplies. all we had was 18 oxen and a $1,600 in cash.
 <img width="514" alt="Screenshot 2023-10-21 163350" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/6b8f811d-88f0-4969-87ed-51024ad12133">
  one by one we died of starvation and 27 days later on june 27 1848 we died having traveled 344 miles with no food or water. press space bar to contune.
  <img width="421" alt="Screenshot 2023-10-21 164003" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/d3e232d9-0ad4-4398-bbc7-1115b19bc0ee">
