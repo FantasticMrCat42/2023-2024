@@ -17,3 +17,5 @@ def link_room(self, room_to_link, direction):
         return self
 ```
 
+after this I took a quiz in replit covering the vocabulary from the preveos OOP lessons.
+<img width="1280" alt="Screenshot 2023-10-26 154442" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/13684f10-64fa-4c52-9ed3-3b7cb121af48">
