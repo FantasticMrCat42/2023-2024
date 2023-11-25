@@ -12,3 +12,7 @@ scources for tkinter:
 [python docs](https://docs.python.org/3/library/tk.html)
 
 [a article/totorial](https://www.geeksforgeeks.org/python-gui-tkinter/#)
+
+[youtube video full course]([url](https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
+
+[beginers course video]([url](https://www.youtube.com/watch?v=ibf5cx221hk)https://www.youtube.com/watch?v=ibf5cx221hk)
