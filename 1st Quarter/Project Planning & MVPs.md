@@ -18,11 +18,10 @@ finaly is this issue thread on github I just found to fix the loading local mode
 
 **a short one-paragraph summary**
 
-```
+
 "this is a simple Tkinter based image Stable Difusion GUI for genorating AI images. It uses the newest models for faster loading times and real time updating on prompts. it uses Tkinter to create a simple user interface wich does not run inside of a webroser like evry other UI.  "
-```
 
 **relevant skills**
-```
+
 "I used reaserch skils to find the resources such to use the diffuers pipline for image rendering. I also utilised critical thinking to work past bugs. some of wich include an issue with images not outputing in the UI due to them beaing stored as an aray for the stable defusion model to manimplate the image"
-```
+
