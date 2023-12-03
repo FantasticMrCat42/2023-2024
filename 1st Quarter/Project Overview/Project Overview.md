@@ -35,8 +35,8 @@ I am working with AI and that is currently a rapidly developing technology
 I asume  a well-rounded individual has several developed skills while a spike has a single or close nit set of skills that they are an expert on. in my opinion a well rounded person could be a good coder but a spike will often come up with the revolutionary ideas. 
 
 **What do you want to do when you finish school? Like, specifically, what area do you want to work in/study in? How are you getting prepared for that? How are you showing interest in that?**
-
+I am am focusing on AI and coding to interprate and use AI for tools. I think literaly the rest of my document explains how I am getting prepared and showing intrest.
 **When they're looking at your application vs. others, what will they see that will make you standout vs. those you're competing with?**
-
+I have no idea other than that I use AI but if I am compared to others in the feild of machine learning all ive got is I have sevral projects and have been experimenting since 15
 **You have a break coming up; could you use some of your break time to work on things related to the direction you want your future to take?**
-
+sure ok
