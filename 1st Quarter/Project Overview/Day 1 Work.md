@@ -15,3 +15,8 @@ the webui is not very beginer friendly but was the best option in the old days o
 
 as you can see there are serveral tabs and inputs that make the GUI difficult for beginers and the settings menu is depicted bellow.
 ![127 0 0 1_7861_ (1)](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/3e82e83c-e22a-45f4-b1b1-a74b3150d610)
+as you can see its unresonable.
+### **[Comfy UI]** ###
+
+ive learned from this UI that most of these features are badly implimented for UX and could be changed. an example is the resolution settings because stable diffusion only works well with certan asspect ratios and the slider does not reflect that or have many options for aspect ratios. admitidly the UI does have very good functionality with extentions wich my UI will defenatly not.
+
