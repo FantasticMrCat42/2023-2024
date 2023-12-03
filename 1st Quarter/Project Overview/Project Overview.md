@@ -17,9 +17,9 @@ and this is my AI cloned Model:
 -  soft skills
 -  critcal thinking is vital
 -  creative thinking is also valued
-
+(all question aswers were longer but due to STUPID swipe gestures on the laptop it activated the back button and deleated all of my progress and curently I am to Pissed to rewrite them because I did a good job the first time and at this point I am just angry that git hub didnt prompt me with an "are you sure" button because I had lake 5 paragraphs answering these so just take it on faith that i wrote more. also yes I am aware that that was a run on sentinse but i am to angry for grammer.)
 **How did the video mesh with your thoughts and ideas related to portfolios?**
-I think the video iterates the fact that grades and test scores are not the only thing that matters to employers or collages. some important factors include
+I think the video iterates the fact that grades and test scores are not the only thing that matters to employers or collages. an important factors include to show who you are. you can do this in a portfolio as well by being creative with you projects. 
 
 **After looking at and thinking about your own portfolio, what sort of changes or additions would you like to make to it?**
 
