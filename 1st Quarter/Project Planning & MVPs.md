@@ -10,15 +10,26 @@ I can cut it down to just the image genoration portion with very litle other fea
 I want to inlcude use of control net as well change the backend to not use the diffusers library pipline. unfortunatly I dont know how to becuse there is literaly no informaiton online. I could serch throught the hundreds of scripts in the A1111 webui I run to genorate images because its open source but it whould take alot of time to understand. MAKE IT AN .EXE, i whould realy like to make it an executable file or at least a .bat file so that it whould imidatly run in the terminal instead of having to write python project_file_name.py
 
 3) What are 3 resources that could help you with your project?
+definitly this 18 hour course Ive been watching because it explains a ton of diferent apps and how they were coded as well as how to make a nice GUI: [here](https://youtu.be/mop6g-c5HEY?si=n9UJX8jX8_4FFRyB)
+second whould probaly be [sdxl turbo](https://huggingface.co/stabilityai/sdxl-turbo) because it came out 3 days ago and cuts genoration time down to real time. it includes some code to get it working
+finaly is this issue thread on github I just found to fix the loading local models issue i mentioned in the MVP section. the issue thread is [here](https://github.com/huggingface/diffusers/issues/4029)
 
-
-4) Start working on a project write up for your resume, similar to what I showed you in the video. Include:
+5) Start working on a project write up for your resume, similar to what I showed you in the video. Include:
 
 a short one-paragraph summary
 
+```
+"this is a simple Tkinter based image Stable Difusion GUI for genorating AI images. It uses the newest models for faster loading times and real time updating on prompts. it uses Tkinter to create a simple user interface wich does not run inside of a webroser like evry other UI.  "
+```
+
 relevant skills
+```
+"I used reaserch skils to find the resources such to use the diffuers pipline for image rendering. I also utilised critical thinking to work past bugs. some of wich include an issue with images not outputing in the UI due to them beaing stored as an aray for the stable defusion model to manimplate the image"
+```
 
 If working with a partner; include your responsibilities (as opposed to those of your partner/s)
-
+```
+"whould love to have a partener but I like the front end GUI desing and no one else could create a good UX because I dont know anyone who actualy uses an image genorator so they whouldnt know the best layout. also the back end genoration whould be problematic as well because the only reason I understand this is becuase i reserached it as a pation project"
+```
 a more in-depth overview of your project
 
