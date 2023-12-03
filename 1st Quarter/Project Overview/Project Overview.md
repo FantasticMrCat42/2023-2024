@@ -11,3 +11,4 @@ I compiled sevrel hours of recordings from social media and youtube interviews t
 
 and this is my AI cloned Model:
 [link to file](https://github.com/FantasticMrCat42/2023-2024/blob/main/1st%20Quarter/Project%20Overview/RVC_Steven_Johnson.wav)
+e
