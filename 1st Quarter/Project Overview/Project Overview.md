@@ -26,3 +26,17 @@ over the summer I worked on a portfoliio that I designed in figgma and was worki
 
 **How can you show experiences that demonstrate soft skills to potential employers and/or universities.**
 you could include examples of projects that you worked on in a team. for example my work on my robot for GCER.
+
+
+
+**Why should they choose you over other people?**
+I am working with AI and that is currently a rapidly developing technology
+**A common topic related to college and university is well-rounded vs spike; are you familiar with it? You should probably look into it at least a little so you're familiar with the concept.**
+I asume  a well-rounded individual has several developed skills while a spike has a single or close nit set of skills that they are an expert on. in my opinion a well rounded person could be a good coder but a spike will often come up with the revolutionary ideas. 
+
+**What do you want to do when you finish school? Like, specifically, what area do you want to work in/study in? How are you getting prepared for that? How are you showing interest in that?**
+
+**When they're looking at your application vs. others, what will they see that will make you standout vs. those you're competing with?**
+
+**You have a break coming up; could you use some of your break time to work on things related to the direction you want your future to take?**
+
