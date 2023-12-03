@@ -10,4 +10,4 @@ I decided for my project that I will contunue to work on a simple personal proje
 I compiled sevrel hours of recordings from social media and youtube interviews to create the model. an bit of the original show is [here](https://youtu.be/x8OdvHe-fRg?t=7). but the voice i emulated was similer to him in interviews. here is a clip of his actual voice from an interview: [link to file](https://github.com/FantasticMrCat42/2023-2024/blob/main/1st%20Quarter/Project%20Overview/RVC_Steven_Johnson.wav)
 
 and this is my AI cloned Model:
-[link to file](url)
+[link to file](https://github.com/FantasticMrCat42/2023-2024/blob/main/1st%20Quarter/Project%20Overview/RVC_Steven_Johnson.wav)
