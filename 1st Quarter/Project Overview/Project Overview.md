@@ -11,4 +11,17 @@ I compiled sevrel hours of recordings from social media and youtube interviews t
 
 and this is my AI cloned Model:
 [link to file](https://github.com/FantasticMrCat42/2023-2024/blob/main/1st%20Quarter/Project%20Overview/RVC_Steven_Johnson.wav)
-e
+
+## Notes & Quesitons ##
+-  demonstraits who you are
+-  soft skills
+-  critcal thinking is vital
+-  creative thinking is also valued
+
+**How did the video mesh with your thoughts and ideas related to portfolios?**
+I think the video iterates the fact that grades and test scores are not the only thing that matters to employers or collages. some important factors include
+
+**After looking at and thinking about your own portfolio, what sort of changes or additions would you like to make to it?**
+
+
+**How can you show experiences that demonstrate soft skills to potential employers and/or universities.**
