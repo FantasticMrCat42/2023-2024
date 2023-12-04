@@ -53,7 +53,8 @@ the advanced version is simmiler to what I am aiming for and it does solve many 
 
 ### **[Invoke AI UI]** ###
 this is a UI i have never used but have come across in the past. its a good balance and looks like what I am aiming for: 
-![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/33909c28-198b-463f-a94e-d96b6a87ab6e)
+![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/aaa8a433-3c1b-43af-b71a-f39278b61e1d)
+
 
 
 ## making my own GUI ##
