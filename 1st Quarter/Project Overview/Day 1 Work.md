@@ -51,8 +51,13 @@ this is the webui with advanced settings:
 
 the advanced version is simmiler to what I am aiming for and it does solve many of the problems I had like not knowing what resolutions i can pick but it abstracts Way to much from the user and hidners the creative prosses.
 
-### **[Fooocus UI]** ###
+### **[Invoke AI UI]** ###
 this is a UI i have never used but have come across in the past. its a good balance and looks like what I am aiming for: 
 ![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/33909c28-198b-463f-a94e-d96b6a87ab6e)
+
+
+## Summery of consept ##
+
+<img width="1279" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/0d26bf15-a0e0-4e8d-8c0d-58826346bfc6">
 
 
