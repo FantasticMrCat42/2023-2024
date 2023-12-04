@@ -56,8 +56,8 @@ this is a UI i have never used but have come across in the past. its a good bala
 ![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/33909c28-198b-463f-a94e-d96b6a87ab6e)
 
 
-## Summery of consept ##
-
+## making my own GUI ##
+I am working on a design in figma. next week I will work more 
 <img width="1279" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/0d26bf15-a0e0-4e8d-8c0d-58826346bfc6">
 
 
