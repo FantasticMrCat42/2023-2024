@@ -9,3 +9,6 @@ this is the current GUI plan mocked up in Figma.
 
 i also worked with tej to create some more optomized code for his project
 <img width="558" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/0acf3d3b-83e0-47e0-bd75-c6c6b2da0eda">
+
+
+at the beging of class I also checked on the computer science honor society but they still had not reviewed it.
