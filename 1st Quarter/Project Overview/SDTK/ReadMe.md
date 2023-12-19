@@ -7,8 +7,9 @@ this project focused on creating a intuative but somewhat adavanced user interfa
 - Object oreantated programing
 - Tkinter
 - costom Tkinter
+![Screenshot 2023-12-19 171516](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/ac3fc111-dd4d-4ed7-824a-c6327fd83e3f)
 
 # Overview #
-![Screenshot 2023-12-19 171516](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/ac3fc111-dd4d-4ed7-824a-c6327fd83e3f)
+
 to create the GUI I am using the custom Tkinter library instead of the basic Tkinter library. the custom tkinter library is almost the exact same as Tkinter but it inludes a more adjustable UI including dark mode. I started the project by trying to learn the Diffusers library. the main issues I faced with this project was getting mutiple inputs to sync in the GUI. to avoid this issue I just limited the user interface to single inputs and disabled the sliders. i also revisitid the PIL library to display and adjust images to fit the interface. I plan on expanding it further but the code is rushed and should honestly be rewriten. In the prosses of making the GUI I used several Tkinter widgets including the text entrys for the prompt and negative prompt. I inluded sliders for adjusting settings but Never ended up using them because I needed to sync them to the input boxes used for the same settings.
 ![Screenshot 2023-12-19 171534](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/17d4dc1a-b5a4-4209-b851-bf74af522035)
