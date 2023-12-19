@@ -8,4 +8,6 @@ this project focused on creating a intuative but somewhat adavanced user interfa
 - Tkinter
 - costom Tkinter
 
-# Skills #
+# Overview #
+![Screenshot 2023-12-19 171516](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/ac3fc111-dd4d-4ed7-824a-c6327fd83e3f)
+to create the GUI I am using the custom Tkinter library instead of the basic Tkinter library. the custom tkinter library is almost the exact same as Tkinter but it inludes a more adjustable UI including dark mode. I started the project by trying to learn the Diffusers library 
