@@ -6,7 +6,8 @@ this project focused on creating a intuative but somewhat adavanced user interfa
 - utilizing new python librarys
 - Object oreantated programing
 - Tkinter
-- costom Tkinter
+- custom Tkinter
+  
 ![Screenshot 2023-12-19 171516](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/ac3fc111-dd4d-4ed7-824a-c6327fd83e3f)
 
 # Overview #
