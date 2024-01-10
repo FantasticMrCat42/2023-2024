@@ -5,3 +5,5 @@ most of the time i spent fixing my code to display the image in the correct reso
 this is the example image i gernerated
 
 I fixed an issue with an image always genorating when starting the GUI. I still need to hook up the inputs to my RunSDXL function but once that is done i should have a compleat MVP
+
+no
