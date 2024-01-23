@@ -24,3 +24,4 @@ use a cleen install of crome using a new account that avoids restrictions
 <img width="917" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/d5c146ad-8ac0-420f-a0b0-bd2902bb67d1">
 I used the video on noise to create the code. I experimented with changing the color of the the line to adjust as it increases and decreases. unfortunatly the entire line changed color because it is considerd a single shape.
 
+while i did not get much done with coding I did spend quite a bit of time learning how to use Java. I set up prossing and tryed to understand the syntax. the language is most simmiler to C from my experiance of different programing languages. this makes me intrested in understanding the differnent languages.
