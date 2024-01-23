@@ -17,3 +17,10 @@ The easiest solution is to use a cellular modem/router combo device. These are p
 
 my solution:
 use a cleen install of crome using a new account that avoids restrictions
+
+
+## DAY 5 ##
+**Experimentation**
+<img width="917" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/d5c146ad-8ac0-420f-a0b0-bd2902bb67d1">
+I used the video on noise to create the code. I experimented with changing the color of the the line to adjust as it increases and decreases. unfortunatly the entire line changed color because it is considerd a single shape.
+
