@@ -21,3 +21,7 @@ I am personaly biased because of my interest in AI because the feild is not full
 https://www.mmlab-ntu.com/publication_topic.html
 https://mobile-aloha.github.io/
 
+# DAY 2 #
+most of today we spent working on getting a proper poster for CSHS. while this may seem like a problem of minimal attention I beleave It will define the honor societys branding. whatever color sceam and style we use we will want to stay consistent to not confuse people interested in the honor society.
+
+I will work on more when I get home and add it as to not fall behigned or overlook important information
