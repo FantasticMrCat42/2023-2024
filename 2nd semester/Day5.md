@@ -24,4 +24,9 @@ https://mobile-aloha.github.io/
 # DAY 2 #
 most of today we spent working on getting a proper poster for CSHS. while this may seem like a problem of minimal attention I beleave It will define the honor societys branding. whatever color sceam and style we use we will want to stay consistent to not confuse people interested in the honor society.
 
-I will work on more when I get home and add it as to not fall behigned or overlook important information
+Zombie dessise model
+this is an algorithm describing the spread of a desease. the mathimatical model defines 3 groups including Suseptable, infected and removed.
+
+after playing with the defined variables in the simulaition I found that if you increase the infection distance or probability the increase in rate of infection increases exponentialy while if you decrease the recovery time often the infection will die out befor taking hold.
+
+mr code train talks about how to create vectors that are random. his solution is to create a ranomized direction the adjust the magnitude instead of multipying each indiviual value in the vector
