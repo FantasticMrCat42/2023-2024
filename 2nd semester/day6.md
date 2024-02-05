@@ -11,3 +11,5 @@ this video discused how virusses adapt as they transmit between hosts. I was sup
 
 Videos on simulations
 this video points out that models do not just have to be mathimatical but can also be phisical or just be a model of steps like a to do list. another important point was that simulations can include 3d modeling products to test for vunrabilitys or a driving simulation. the main perpose is to anilize without risk and at a lower cost.
+this is a video by tom scott covering a tank simulation from the 1970s using a diorama and a controlable camera. i found it interesting and it relates to using simulations in a non virtual enviroment even befor computers with 3d graphics
+https://youtu.be/AcQifPHcMLE?si=WoPPD7FAO7963nrX 
