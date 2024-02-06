@@ -13,3 +13,17 @@ Videos on simulations
 this video points out that models do not just have to be mathimatical but can also be phisical or just be a model of steps like a to do list. another important point was that simulations can include 3d modeling products to test for vunrabilitys or a driving simulation. the main perpose is to anilize without risk and at a lower cost.
 this is a video by tom scott covering a tank simulation from the 1970s using a diorama and a controlable camera. i found it interesting and it relates to using simulations in a non virtual enviroment even befor computers with 3d graphics
 https://youtu.be/AcQifPHcMLE?si=WoPPD7FAO7963nrX 
+
+
+missisipi model + rivers:
+this was a phisical model used by the government for flood responce and modeling responce infistructure. this model was masive and still saved the government monney because it made there responces planed and more effective.
+the second video covers using models for seeang how sedement is distributed.
+![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/d49290f6-9d3a-4e5c-9238-e646603c206c)
+
+
+![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/d6a28190-18ab-4c77-92cc-2f94360d1047)
+
+
+
+
+
