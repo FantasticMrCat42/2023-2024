@@ -24,6 +24,12 @@ the second video covers using models for seeang how sedement is distributed.
 ![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/d6a28190-18ab-4c77-92cc-2f94360d1047)
 
 
+The von noiman probe and the game of life:
+I am familer witht the game of life and have played around with the simulation in the past but watching the numberphile video brought up the life of mr von noighman who I am also aware of from scifi novels. specificly 
+a searies called the bobiverse books a truely remarkable set of books with great adaptations on audable. the book follows the life of a man who dies and is criogenicly frozon and is later converted to an AI form of his intelegence. the book follows his jounry as a von nouman probe exploring the galaxy looking for habitable places for the dieing remenets of humanity to live. This book series is wonderfull and I segust it to evryone.
 
+the game of life follows a simple algorithmic set of rules allowing for some impressively complex simulaitons
+an example I remember was the game of life is life. this is the orginal video 
+https://www.youtube.com/watch?v=xP5-iIeKXE8 
 
 
