@@ -19,18 +19,18 @@ alr im back after watching the video (not sure why I am treating this github rep
 so the video mainly talks about finding optimal paths through pheramones. the paterns reminds me of somthing called gradient descent from my resarch of machine learning.
 [vid](https://youtu.be/IHZwWFHWa-w?si=5D3EY2tSmVZPRHQy)
 
-then i got sidetracked watching a fluid simulation of bad apple
+then i got sidetracked watching a fluid simulation of bad apple.
 
-then i got sidetracked learning about the song and video
+then i got sidetracked learning about the song and video.
 
-then i thought about how the video uses flat colors but the brain infers depth based on the movement becasue when on one frame it looks flat 
+then i thought about how the video uses flat colors but the brain infers depth based on the movement becasue when on one frame it looks flat .
 
-then i got side tracked on a n old video I watched about persistance of vison used this way [weird pov effect](https://www.youtube.com/watch?v=TdTMeNXCnTs)
+then i got side tracked on a n old video I watched about persistance of vison used this way [weird pov effect](https://www.youtube.com/watch?v=TdTMeNXCnTs).
 
 then i got side tracked because persistance of vision is the techneqe used by CRT TVs. because there is only one point of light runing across the screen in scan lines but 
-because of the speed of motion our brains interprate it as the full image
+because of the speed of motion our brains interprate it as the full image.
 
-thin i got side tracked watching the technology connections youtube chanal on old tech because he made the crt video [https://www.youtube.com/watch?v=l4UgZBs7ZGo]([url](https://www.youtube.com/watch?v=l4UgZBs7ZGo))
+thin i got side tracked watching the technology connections youtube chanal on old tech because he made the crt video [https://www.youtube.com/watch?v=l4UgZBs7ZGo]([url](https://www.youtube.com/watch?v=l4UgZBs7ZGo)).
 
 then i watched a video on how cassets store data in magnetic tape and then real to real tape recorders.
 it is now 3:40 in the morning and all i proved is that I get sidetracked easily and that when given a text doc i will ultamatly manafest it as my internal monolage.
