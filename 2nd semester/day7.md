@@ -62,7 +62,7 @@ making the game of life: I worked on making the game of life because it seemed l
 
 
 <img width="1053" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/078eb2f4-2df4-4e97-94e4-bf5ae08a3b57">
-
+this project ended up taking way to long because the instance of prossesing i ran was supper buged and wouldent let me enter charachters in between 2 other carachters instead it whould just deleat one like an old ti-84 claclulator. also the video had several bugs in it that they eventualy fixed
 
 
 
