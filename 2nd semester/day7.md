@@ -57,5 +57,16 @@ manifold garden (cool art style with outlines) also a cool game its makes me thi
 
 
 
+## Making Simulations ##
+making the game of life: I worked on making the game of life because it seemed like somthing I could do in the time aloted. Instead of doing my own simulaitons I will most likely be following tutorails instead because I still kinda suck at java.
+
+
+<img width="1053" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/078eb2f4-2df4-4e97-94e4-bf5ae08a3b57">
+
+
+
+
+
+
 
 
