@@ -26,6 +26,14 @@ basicly stores the transformations made so you dont need to figure out how to re
 <img width="598" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/88ceb3c9-4a3b-480c-9625-36b58c1ba902">
 
 
+<img width="999" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/6057fee5-2862-4ac8-9502-76c02752cb84">
+
+
+## Fractal Tree ##
+
+<img width="1013" alt="Screenshot 2024-02-23 142045" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/e960709f-cb51-4d55-8f4d-520157b43b08">
+
+<img width="928" alt="Screenshot 2024-02-23 142119" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/82e25972-89db-43a1-954f-47e16c4ceff8">
 
   
 
