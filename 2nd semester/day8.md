@@ -36,5 +36,11 @@ basicly stores the transformations made so you dont need to figure out how to re
 <img width="928" alt="Screenshot 2024-02-23 142119" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/82e25972-89db-43a1-954f-47e16c4ceff8">
 
   
+## Fractals in Africa ##
+the video covers how the archatecture in africa shows fractal paterns. my favorite from this video was the ba-ila vilage fractal.
+<img width="438" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/389cb199-137b-47d5-b1e7-760e783bab5e">
+
+often times the fractals that were found were not specificly intended but instead were just the intuative way to people. in some cases the fractals were intended or at least the underling algorithm was based in fact. an example of this is the scalinmg windscreen as they were optimised to scale with the wind speed. the random number generation was cool to in the sand drawings
 
   
+<img width="359" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/05591a86-a467-42d2-8cf2-ac9d0dd492d8">
