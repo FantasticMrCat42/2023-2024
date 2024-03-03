@@ -10,3 +10,5 @@ the first video uses stacks as a history of the visited poitns on the grid when 
 
 # Mouse maze
 flood fill algorithm was listed in the video as the most used as it can find a fast path to the objective while ignoring irelevent portions of the maze. the most interesting part of the video is probably the diferent ways used to cut time such as taking diagnal turns.
+
+the final video covers a maze that uses somthing akin to gas particles to solve the maze. its just places a flood of particles in and the first one to randomly reach the end has found a path. this remindes me of the sorting algorithm bogo sort which is "sort the elements of an array by randomly generating different permutations of an array and then checking whether it is sorted or not". the bogo sort algorithm is random and is far worse than the one using particles from the video but i just rememberd it when he called his the dumb way of finding the path/
