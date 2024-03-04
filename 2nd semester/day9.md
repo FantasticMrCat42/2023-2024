@@ -46,18 +46,12 @@ For each of these 2:
 - -- -- tell me why you think it may be helpful.
 
 # PROJECT: Part 0b - Sketches / Resources
-- 
+{Idea #1 : further work on my AIVA project}
+I plan on connecting my connecting my AI hand detection and upgrading my AI vison model to better intigrate into eachother for the project the following are some changes I need to make:
+-  I could add text to speach AI for navigating the menues
+-  I could add the open AI whisper model for voice recogniton
+-  I need to update my deapth recognition AI with the new Moneculare deapth estimation model
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Resources:
+the first scources is the [depth anything model](https://github.com/LiheYoung/Depth-Anything)
+- I will use 
