@@ -33,6 +33,9 @@ For each:
 - make that plant simulation (probably too hard (unless its in python(i dont like java)))[the plant simulation was somthing I planned on doing earlier but whould most likely be too hard unless I used python. I could do it in java but no mater what the project is going to take more than the class time I have and I will eat a jar of mayonaise before I code java in my free time]
 - a cool pinball simulator (basicly the pool simulato but it whould be harder) [this is like the pool game but I whould probably extend it into the 3rd dimension. so basicly a physics sim but I dont need to do anything other than impacts and colisions]
 
+<img width="338" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/df8f9ab4-5c6a-46d1-9e2b-03ad4d45a311">
+
+
 Choose 2 of your ideas.
 
 For each of these 2:
