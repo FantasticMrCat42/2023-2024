@@ -54,4 +54,24 @@ I plan on connecting my connecting my AI hand detection and upgrading my AI viso
 
 Resources:
 the first scources is the [depth anything model](https://github.com/LiheYoung/Depth-Anything)
-- I will use 
+- I will use this to update my curent deapth model to hopfully be more accurate and add metric deapth estimation instead of relitive estemation. this will be used for the obstical recognition to warn the user of obsticals. this scource has some example code as well as a explinaiton of the model.
+  
+the second rescource is the [whisper model](https://github.com/openai/whisper). 
+- I think this will be usfull for audio transcription of the users voice. this github repo includes some example code so I can addapt that for my project
+
+{Idea #2 : pool simulation}
+for this project I could work on crating a pysics simultaion of the pool balls and the pool cue. the player could interact with the simulation and compeate with another player.
+- I whould most likely base the gameplay mecaniks off of the game from game pigion.
+- the balls whould all be objects with force vectores that act on eachother.
+- I the balls whould also have a friction force to slow them down
+  sudo sudo code:
+  - a startup protion that spawns the balls in the correct location according to an array
+  - a loop that updates evry players turn
+    - within the loop is another loop that whould calculate the effects of the players moves including the balls and the drag and collisions
+     - a score check function to update the score
+   
+  Resources:
+  my first resource is a video on [simulating pysics in python](https://www.youtube.com/watch?v=5j0uU3aJxJM)
+  - I would use this to make the base collision physics in my game. so that ball collisons and the players moves whould act like a real simulation
+  my second scource is on [how to use pygame](https://www.youtube.com/watch?v=y9VG3Pztok8)
+- I need this scource because alot of this game will require the pygame package most likely
