@@ -22,13 +22,13 @@ For each:
  - state which topics/concepts it relates to
 
 # Part 0a - Idea Generation
-- mazes genorator [this whould be just a simple maze generator like the ones we saw in class. we never realy got to make are own and i think it whould be fun]
-- a pathfinding bot [same as the maze I think that making a pathfinding bot whould be usfull. partly because it could be reused in games.]
+- mazes genorator [this whould be just a simple maze generator like the ones we saw in class. we never realy got to make are own and i think it whould be fun. If I had extra time I could combine this with a maze solver or a water simulation to fill the maze. I could also expand this by making the maze 3d and using multi dimensional arrays]
+- a pathfinding bot [same as the maze I think that making a pathfinding bot whould be usfull. partly because it could be reused in games. The bot could avoid obsticals to reach a flag placed by the player]
 - make a sim game [this whould be like a sim or maybe somthing like CIV but im not sure I could make somthing good in the time we have (or with more time, because I kinda suck at making games)]
-- make a zombie simulation [make a sort of zombie survival simualtion with a carachter and the dificulty setings allowing you to addjust the model]
+- make a zombie simulation [make a sort of zombie survival simualtion with a carachter and the dificulty setings allowing you to addjust the model. asumadly it whould have options for the zombies agression and hunger or how long the incubation period is beffore you can infect others.]
 - terain genaration [a simple terain generator using noise whould be fun. I did this last year with my planet generator but I think I could add more this time. also i could combine this with the path finding algorithm to make a simulaiton of some sort]
-- light simulation with ray casting [thsi is simmiler to my scratch game that I made a while back. it used ray casting to create the 3D effect simmiler to games like Woolfinstine 3D from john carmack  ]
-- phyisics simulation [this could be like a water simulation or just a basic gravity simulation]
+- light simulation with ray casting [this is simmiler to my scratch game that I made a while back. it used ray casting to create the 3D effect simmiler to games like Woolfinstine 3D from john carmack. If I had time I whould expand this by attempting to add more difficult features including texture maping onto obsticals]
+- phyisics simulation [this could be like a water simulation or just a basic gravity simulation. I whould most likely allow the user to add objects then move them around like a unity editor then the user could run the simulation and whatch objects collide]
 - POOL SIM / BILULARDS [this whould be like the physics simulation but I could also see if I could do some website hosting and make it like the game pigen game because that only works on apple and i want a solution, I could use a website or I could have the result of a move be encoded then encripted so that you could send that in text form to denote what happend]
 - make that plant simulation (probably too hard (unless its in python(i dont like java)))[the plant simulation was somthing I planned on doing earlier but whould most likely be too hard unless I used python. I could do it in java but no mater what the project is going to take more than the class time I have and I will eat a jar of mayonaise before I code java in my free time]
 - a cool pinball simulator (basicly the pool simulato but it whould be harder) [this is like the pool game but I whould probably extend it into the 3rd dimension. so basicly a physics sim but I dont need to do anything other than impacts and colisions]
