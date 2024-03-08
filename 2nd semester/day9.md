@@ -9,6 +9,11 @@ in the video on dark soels goes into more deapth with video game path finding al
 
 # drawing mazes
 the first video uses stacks as a history of the visited poitns on the grid when constructing the maze. so once the algorith hits a dead end it will back track using the pop feature. then to construck the maze the program draws lines in between the paths. so it almost uses a path finding agorithm to find a ton of paths unitll it fiills the grid. then the maze is constructed around it.
+A good visual depiction of this is the following diagram from one of the videos:
+
+<img width="496" alt="image" src="https://github.com/FantasticMrCat42/2023-2024/assets/129550102/87d519ba-0005-4be4-be27-c74a0be0f7a8">
+
+
 
 # Mouse maze
 flood fill algorithm was listed in the video as the most used as it can find a fast path to the objective while ignoring irelevent portions of the maze. the most interesting part of the video is probably the diferent ways used to cut time such as taking diagnal turns.
