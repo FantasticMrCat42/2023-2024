@@ -21,6 +21,7 @@ the next video covers the history of AI
 its cleary a video from early 2022 because it uses dalle 2 and chatgpt was not mentiend. I think one of the points in the video becomes interesting  with the release of gpt-3.5 and that is the turing test. many people cant tell the diference between a chat with gpt-4 and a real person and with new text to speach and AI avatars it whould be easy to make the mistake.
 
 a good example whould be the haygen model for the charachter avatar in this video paired with the 11 labs voice model. 
+
 https://github.com/FantasticMrCat42/2023-2024/assets/129550102/113d4eae-4c04-4c91-843d-1384eb8f77f7
 
 
