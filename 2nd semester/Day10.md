@@ -29,4 +29,20 @@ The final video mainly covers what ML is and splits the diferent aspects of AI.
 
 i would describe it but it whould basicly just rehash the video.
 
+AI: using machines to emulate intelegence and problem solving abilitys of a human (thus the name artifical intelegence)
+ML: specificly using algoriths to learn patterns of gain knollage from a data set
+DL: removes a portion of the human compontent
+
+__ML__
+Supervised learning: uses a labeled dataset, an example whould be a sorrting algorithm that has been given a labeled data set of bees and ants then when given an new image of eather a bee or an ant whould clasify it.
+
+Unsupervised learning: involves giving the AI a unlabeled dataset, the example in the video was clustering costemers into diferent groups
+
+RL: providing an agent with a goal, puting it in an environment that will provide a feedback score then just letting the model evolve to a point that it scores highly. as far as i remember with RL is that if the AI can find a un-intentianal shortcut it can just fail. an example i remember was in GANs or generatave advaserial networks were a agent generates an image then a discriminator that returns it until the GAN finaly meets the critera. this solution was used in image generation long before the difusion based method we use currently. the issue is somthing called Mode Collaps. a good explination on googles ML course:
+
+![image](https://github.com/FantasticMrCat42/2023-2024/assets/129550102/2b7c8492-ea3f-4537-b391-bfb8c86f36ba)
+
+
+
+
 
